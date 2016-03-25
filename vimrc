@@ -62,6 +62,7 @@ set fileformats=unix,dos,mac
 set mouse=a
 let mapleader='\'
 colorscheme badwolf 
+set t_Co=256
 let g:badwolf_css_props_highlight = 1
 
 " buffer navigation
